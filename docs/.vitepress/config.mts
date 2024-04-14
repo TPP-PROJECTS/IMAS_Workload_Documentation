@@ -12,6 +12,7 @@ const vitepressSidebarOptions = {
 export default defineConfig({
   title: "TPP IMAS Workload",
   description: "Documentation",
+  base: "/IMAS_Workload_Documentation/",
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
